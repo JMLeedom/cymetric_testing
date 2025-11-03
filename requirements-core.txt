@@ -3,7 +3,7 @@ numpy>=1.21.0
 sympy>=1.9
 scipy
 joblib
-wolframclient>=1.1.6
+#wolframclient>=1.1.6
 pickle-mixin>=1.0.2
 tqdm>=4.60.0
 matplotlib>=3.5.0
